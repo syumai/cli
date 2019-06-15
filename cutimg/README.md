@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-go get -u github.com/syumai/cutimg
+go get -u github.com/syumai/cil/cutimg
 ```
 
 ## Usage

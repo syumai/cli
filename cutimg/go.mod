@@ -1,4 +1,4 @@
-module github.com/syumai/cutimg
+module github.com/syumai/cli/cutimg
 
 go 1.12
 
