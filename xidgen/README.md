@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-go get -u github.com/syumai/cli/xidgen
+go install github.com/syumai/cli/xidgen@latest
 ```
 
 ## Usage

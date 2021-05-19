@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-go get -u github.com/syumai/cli/shortuuidgen
+go install github.com/syumai/cli/shortuuidgen@latest
 ```
 
 ## Usage
