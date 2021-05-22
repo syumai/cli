@@ -12,6 +12,6 @@ go install github.com/syumai/cli/xidgen@latest
 ## Usage
 
 ```sh
-$ xid
+$ xidgen
 => c2iaj9o6qe7j82mcjoog # generated xid
 ```
