@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(xid.New())
+	fmt.Print(xid.New())
 }
