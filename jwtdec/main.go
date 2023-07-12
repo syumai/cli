@@ -26,7 +26,7 @@ func runMain() error {
 	}
 	sp := strings.Split(string(b), ".")
 	if len(sp) != 3 {
-		fmt.Printf("split length must be 3, got: %d", len(sp))
+		fmt.Printf("split length must be 3, got: %d\n", len(sp))
 		return ErrInvalidArgument
 	}
 	sp = sp[0:2]
