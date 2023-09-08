@@ -1,0 +1,10 @@
+{
+  "name": "xidgen",
+  "version": "0.1.1",
+  "description": "A CLI tool to generate xid (https://github.com/rs/xid)",
+  "bin": {
+    "xidgen": "bin/index.js"
+  },
+  "author": "syumai",
+  "license": "MIT"
+}

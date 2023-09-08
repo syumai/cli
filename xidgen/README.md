@@ -9,6 +9,14 @@
 go install github.com/syumai/cli/xidgen@latest
 ```
 
+or
+
+```
+npm install -g xidgen
+# or without install
+npx xidgen
+```
+
 ## Usage
 
 ```sh
