@@ -8,6 +8,14 @@
 go install github.com/syumai/cli/bomify@latest
 ```
 
+or
+
+```
+npm install -g bomify
+# or without install
+npx bomify
+```
+
 ## Usage
 
 ```
