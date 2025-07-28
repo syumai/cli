@@ -1,0 +1,15 @@
+{
+  "name": "bomify",
+  "version": "0.1.0",
+  "description": "a simple command to add UTF-8 BOM (Byte Order Mark) to input.",
+  "scripts": {
+    "build": "GOOS=js GOARCH=wasm go build -o ./main.wasm ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syumai/cli.git"
+  },
+  "author": "syumai",
+  "license": "MIT",
+  "homepage": "https://github.com/syumai/cli#readme"
+}
