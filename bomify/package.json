@@ -1,6 +1,6 @@
 {
   "name": "bomify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a simple command to add UTF-8 BOM (Byte Order Mark) to input.",
   "bin": {
     "bomify": "wasm_exec_node.js"
